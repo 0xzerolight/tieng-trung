@@ -107,6 +107,7 @@ Yomitan, tiện ích trình duyệt giúp tra từ vựng ngay trên trình duy�
 ### Ứng dụng máy tính
 
 - **[※ Anki (Windows, Mac and Linux)](https://apps.ankiweb.net/)** - Phần mềm sử dụng hệ thống lặp lại ngắt quãng
+- [Anki Miner](https://github.com/0xzerolight/anki_miner) - Tự động tạo thẻ từ vựng Anki tiếng Trung từ video, âm thanh, truyện tranh và sách.
 
 ### Ứng dụng điện thoại
 
